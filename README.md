@@ -40,4 +40,5 @@ To become a **Software Developer**, building efficient, scalable and secure solu
 > _“Technology is not just what I study — it's what drives me to create and innovate.”_
 
 ---
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9c792c6c-50ab-4735-a2ce-b3d7c6c89f52" />
 
