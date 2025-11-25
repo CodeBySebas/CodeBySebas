@@ -32,8 +32,8 @@ To become a **Software Developer**, building efficient, scalable and secure solu
 ---
 
 ### 📬 Let’s Connect
-📧 *Add your email or LinkedIn here*  
-🌐 *Portfolio or social links (optional)*
+📧 *www.linkedin.com/in/sebastian-rodríguez-mariano-16883b383*  
+
 
 ---
 
