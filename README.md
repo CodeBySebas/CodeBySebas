@@ -7,7 +7,7 @@
 ---
 
 ### 🛠️ Tech Stack
-`Python` • `HTML` • `CSS` • `JavaScript` • `PostgreSQL` • `Cybersecurity Basics`
+`Python` • `HTML` • `CSS` • `JavaScript` • `SQL` • `Cybersecurity Basics`
 
 ---
 
