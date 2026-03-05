@@ -7,7 +7,7 @@
 ---
 
 ### 🛠️ Tech Stack
-`Python` • `HTML` • `CSS` • `JavaScript` • `SQL` • `Cybersecurity Basics`
+`Python` • `HTML` •  • `JavaScript` • `SQL` •
 
 ---
 
@@ -31,8 +31,7 @@ To become a **Software Developer**, building efficient, scalable and secure solu
 
 ---
 
-### 📬 Let’s Connect
-📧 *www.linkedin.com/in/sebastian-rodríguez-mariano-16883b383*  
+
 
 
 ---
