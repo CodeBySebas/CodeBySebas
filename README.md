@@ -7,7 +7,7 @@
 ---
 
 ### 🛠️ Tech Stack
-`Python` • `HTML`  • `JavaScript` • `SQL` •
+`Python` • `HTML`  • `JavaScript` • `SQL` • ` POO  ` • ` Database` • `Git`
 
 ---
 
