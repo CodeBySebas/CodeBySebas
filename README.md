@@ -38,9 +38,9 @@ Apasionado por construir soluciones reales con código limpio.
 
 ## 📊 GitHub Stats
 
-![DevSebas GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeBySebas&show_icons=true&theme=tokyonight&hide_border=true)
+![DevSebas GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeBySebas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBySebas&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeBySebas&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 ---
 
